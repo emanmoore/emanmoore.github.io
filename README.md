@@ -1,9 +1,6 @@
-## Welcome to GitHub Pages
+## ERIC MOORE
 
-You can use the [editor on GitHub](https://github.com/emanmoore/emanmoore.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+  I'm a Navy veteran from the USS Dwight D. Eisenhower aircraft carrier. I've traveled to many ports of call in the Mediterean sea. After moving back to my home South Carolina I completed my bachelors in Business and wanted to pursue my MBA ,but realized that higher education doesn't always land you the job you would like. So wanting a flexible schedule I decided to pursue my real estate license. I'm looking for a chance to learn how to create web pages that can give the browser a excellent experience. CLEMSON TIGER FAN.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
