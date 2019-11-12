@@ -13,7 +13,7 @@
 
 
 
-![alt test] (ericpic.jpg)
+![alt test](ericpic.jpg)
 
 
                                                                                   
