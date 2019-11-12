@@ -26,7 +26,7 @@
 
 
 
-![alt test](Vets.jpg)
+### ![alt test](Vets.JPG)
 
 
 
