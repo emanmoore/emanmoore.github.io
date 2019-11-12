@@ -7,7 +7,7 @@
 
 ![alt test](CVN69.jpg)
 
-![alt test] (ericpic.jpg)
+![alt test_________] (ericpic.jpg)
 
 
 
