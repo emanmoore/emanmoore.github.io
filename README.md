@@ -23,7 +23,7 @@
 
 
 
-![alt test](IMG-0495.jpg)
+![alt test](IMG-0495.JPG)
 
 
 
