@@ -3,6 +3,8 @@
   <head>
     
     <link rel='stylesheet' href='styles.css'/>
+    
+    <style>
       .center{
       display:block;
       margin-left: auto;
