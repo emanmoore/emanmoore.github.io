@@ -6,8 +6,12 @@
       .center{
       display:block;
       margin-left: auto;
-      margin-right: auto
+      margin-right: auto;
       width: 15%;
+      }
+      
+      h2{
+      text-align:center;
       }
       
       </style>
