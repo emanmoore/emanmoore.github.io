@@ -25,9 +25,9 @@
       
       
 
-      </head>
-      
       </style>
+      
+      </head>
       <body>
     
 <h2> ERIC MOORE </h2>
