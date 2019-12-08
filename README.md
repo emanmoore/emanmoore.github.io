@@ -5,12 +5,7 @@
     <link rel='stylesheet' href='styles.css'/>
     
     <style>
-      .center{
-      display:block;
-      margin-left: auto;
-      margin-right: auto;
-      width: 50%;
-      }
+      
       
       h2{
       text-align:center;
