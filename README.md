@@ -13,6 +13,7 @@
       h2{
       text-align:center;
       }
+      </head>
       
       </style>
     
