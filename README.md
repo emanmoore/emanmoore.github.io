@@ -15,6 +15,19 @@
       h2{
       text-align:center;
       }
+      
+      .column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
       </head>
       
       </style>
@@ -29,9 +42,17 @@
  <img src="images.jpg" alt="images" height="100" width="100">
  
  
- <img src="CVN69.jpg" alt="CVN69" class="center">
- <img src="IMG-0495.jpg" alt="IMG-0495" class="center">
- <img src="images.jpg" alt="images" class="center">
+<div class="row">
+  <div class="column">
+    <img src="img_CVN69.jpg" alt="CVN69" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="img_IMG-0495.jpg" alt="IMG-0495" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="img_imagesjpg" alt="images" style="width:100%">
+  </div>
+</div>
  
  
  
