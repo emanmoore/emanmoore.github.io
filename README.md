@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 
   <head>
     
@@ -46,7 +46,7 @@
  
  
  
- </html>
+ 
  
  
 
