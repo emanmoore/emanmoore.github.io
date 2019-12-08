@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
-    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+    <style type="text/css">
     
       .center{
       display:block;
