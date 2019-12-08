@@ -28,6 +28,7 @@
       </head>
       
       </style>
+      <body>
     
 <h2> ERIC MOORE </h2>
 
@@ -47,7 +48,7 @@
 
  
  
- 
+ </body>
  </html>
  
 
