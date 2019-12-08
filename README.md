@@ -27,20 +27,7 @@
  <img src="images.jpg" alt="images" height="100" width="100">
  
  
-<div class="row">
-  <div class="column">
-    <img src="img_CVN69.jpg" alt="CVN69" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="img_IMG-0495.JPG" alt="IMG-0495" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="img_imagesjpg" alt="images" style="width:100%">
-  </div>
-</div>
- 
- 
- 
+
  
  
  
