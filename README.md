@@ -11,7 +11,7 @@
       text-align:center;
     }
 
-div.a {
+ p{
   text-align: center;
   }
 
