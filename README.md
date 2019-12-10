@@ -9,9 +9,12 @@
       
       h2{
       text-align:center;
-      }
-      
-      
+    }
+
+div.a {
+  text-align: center;
+  }
+
       
       
 
