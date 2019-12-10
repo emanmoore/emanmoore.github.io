@@ -11,10 +11,7 @@
       text-align:center;
     }
 
- p{
-  text-align: center;
-  }
-
+ 
       
       
 
