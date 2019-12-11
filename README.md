@@ -8,7 +8,7 @@
       
       
       h2{
-      text-align:left;
+      text-align:center;
     }
 
  
