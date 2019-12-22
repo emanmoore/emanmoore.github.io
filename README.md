@@ -51,7 +51,7 @@
  
  <a href="https://www.facebook.com/profile.php?id=100004934805998"><img src="Facebook_icon.jpg" alt="Facebook_icon" height="70" width="70">
  
- <a href="https://twitter.com/emoorehomes"><img src="twitter image.jfif" alt="twitter image" height="70" width="70">
+ <a href="https://www.twitter.com/emoorehomes"><img src="twitter image.jfif" alt="twitter image" height="70" width="70">
  
  
  
