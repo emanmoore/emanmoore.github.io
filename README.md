@@ -50,7 +50,7 @@
 
 
 
-<img src="iconfinder_3_939757.png alt="iconfinder_3_939757" height="100" width="100">
+<img src="iconfinder_3_939757.png alt="iconfinder_3_939757" height="50" width="50">
  
  
  
