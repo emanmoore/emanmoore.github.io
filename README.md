@@ -45,11 +45,11 @@
 
  <img src="CVN69.jpg" alt="CVN69" height="150" width="200">
  <img src="IMG-0495.JPG" alt="IMF-0495" height="150" width="200" border="0">
- <img src="images.jpg" alt="images" height="150" width="200">
- 
- <a href="https://www.facebook.com/?ref=logo/html/">
+ <img src="images.jpg" alt="images" height="150" width="200"
  
  
+ 
+ <img src="Facebook_icon.jpg" alt="Facebook_icon" height="50" width="50">
  
  
  
