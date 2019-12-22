@@ -32,6 +32,53 @@
 <img src="CVN69.jpg" alt="CVN69" height="150" width="200">
  <img src="IMG-0495.JPG" alt="IMF-0495" height="150" width="200" border="0">
  <img src="images.jpg" alt="images" height="150" width="200">
+ 
+ 
+ 
+ 
+ 
+
+
+<a href="#" class="fa fa-facebook"></a>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
  
  
