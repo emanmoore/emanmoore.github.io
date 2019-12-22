@@ -5,6 +5,13 @@
     <link rel='stylesheet' href='styles.css'/>
     
     <style>
+    
+    .fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+    
+    
       
       
       h2{
@@ -12,11 +19,7 @@
     }
     
     
-    .fa-facebook {
-  background: #3B5998;
-  color: white;
-}
-    
+   
     
     
 
