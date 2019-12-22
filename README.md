@@ -47,10 +47,7 @@
  <img src="IMG-0495.JPG" alt="IMF-0495" height="150" width="200" border="0">
  <img src="images.jpg" alt="images" height="150" width="200">
  
-
-
-
-<img src="iconfinder_3_939757.png alt="iconfinder_3_939757" height="50" width="50">
+<img src="iconfinder_3_939757.png alt="iconfinder_3_939757" height="10" width="10">
  
  
  
