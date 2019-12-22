@@ -10,6 +10,14 @@
       h2{
       text-align:center;
     }
+    
+    .fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+    
+    <a href="#" class="fa fa-facebook"></a>
+
 
  
       
@@ -39,7 +47,7 @@
  
 
 
-<a href="#" class="fa fa-facebook"></a>
+
 
  
  
@@ -49,10 +57,7 @@
  
  
  
- .fa-facebook {
-  background: #3B5998;
-  color: white;
-}
+
 
 
  
