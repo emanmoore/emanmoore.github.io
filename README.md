@@ -11,10 +11,6 @@
       text-align:center;
     }
     
-    .fa-facebook {
-  background: #3B5998;
-  color: white;
-}
     
     
 
