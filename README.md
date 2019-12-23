@@ -19,6 +19,13 @@
       text-align:center;
     }
     
+    .center{
+    dispaly:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:50%;
+    }
+    
     
    
     
@@ -49,9 +56,9 @@
  
  
  
- <a href="https://www.facebook.com/profile.php?id=100004934805998"><img src="Facebook_icon.jpg" alt="Facebook_icon" height="70" width="70" align="middle">
+ <a href="https://www.facebook.com/profile.php?id=100004934805998"><img src="Facebook_icon.jpg" alt="Facebook_icon" class="center">
  
- <a href="https://www.twitter.com/emoorehomes"><img src="twitter image.jfif" alt="twitter image" height="70" width="70" align="middle" >
+ <a href="https://www.twitter.com/emoorehomes"><img src="twitter image.jfif" alt="twitter image" class="center" >
  
  
  
