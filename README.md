@@ -72,10 +72,10 @@
   
   <div class="row">
   <div class="column">
-    <img src="img_Facebook_icon.jpg" alt="Snow" style="width:100%">
+    <img src="img_Facebook_icon.jpg" alt="Facebook" style="width:100%">
   </div>
   <div class="column">
-    <img src="img_twitter image" alt="Forest" style="width:100%">
+    <img src="img_twitter image" alt="twitter" style="width:100%">
   </div>
   
   
