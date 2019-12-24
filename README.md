@@ -19,13 +19,22 @@
       text-align:center;
     }
     
-    .center{
-    dispaly:block;
-    margin-left:auto;
-    margin-right:auto;
-    width:20%;
-    }
     
+    * {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
     
    
     
@@ -59,6 +68,18 @@
  <a href="https://www.facebook.com/profile.php?id=100004934805998"><img src="Facebook_icon.jpg" alt="Facebook_icon" height="50" width="50">
  
  <a href="https://www.twitter.com/emoorehomes"><img src="twitter image.jfif" alt="twitter image" height="50" width="50" >
+  
+  
+  <div class="row">
+  <div class="column">
+    <img src="img_Facebook_icon.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="img_twitter image" alt="Forest" style="width:100%">
+  </div>
+  
+  
+  
  
  
  
