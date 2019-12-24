@@ -20,21 +20,6 @@
     }
     
     
-    * {
-  box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
     
    
     
@@ -70,13 +55,7 @@
  <a href="https://www.twitter.com/emoorehomes"><img src="twitter image.jfif" alt="twitter image" height="50" width="50" >
   
   
-  <div class="row">
-  <div class="column">
-    <img src="img_Facebook_icon.jpg" alt="Facebook" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="img_twitter image" alt="twitter" style="width:100%">
-  </div>
+  
   
   
   
