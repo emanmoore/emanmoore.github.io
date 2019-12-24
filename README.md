@@ -17,7 +17,11 @@
       
       h2{
       text-align:center;
-    }
+      }
+      
+      .footer{
+      img-align:center;
+      }
     
     
    
