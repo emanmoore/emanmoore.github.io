@@ -20,15 +20,7 @@
     }
     
     
-    .footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color: red;
-  color: white;
-  img-align: center;
-  }
+   
     
     
     
@@ -67,7 +59,7 @@
  <a href="https://www.twitter.com/emoorehomes"><img src="twitter image.jfif" alt="twitter image" height="50" width="50" >
   
   </footer>
-  <div class="footer">
+ 
   
   
   
