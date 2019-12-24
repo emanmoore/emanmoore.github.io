@@ -67,6 +67,9 @@
  <a href="https://www.twitter.com/emoorehomes"><img src="twitter image.jfif" alt="twitter image" height="50" width="50" >
   
   </footer>
+  <div class="footer">
+  
+  
   
   
   
