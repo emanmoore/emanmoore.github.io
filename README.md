@@ -53,8 +53,13 @@
 <div>
  <img src="CVN69.jpg" alt="CVN69" height="150" width="200" border="0">
   </div>
- <img src="IMG-0495.JPG" alt="IMF-0495" height="150" width="200" border="0">
- <img src="images.jpg" alt="images" height="150" width="200">
+<div>
+  <img src="IMG-0495.JPG" alt="IMF-0495" height="150" width="200" border="0">
+  </div>
+ 
+ <div>
+  <img src="images.jpg" alt="images" height="150" width="200">
+  </div>
  
  
  <footer>
