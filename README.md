@@ -62,11 +62,11 @@
  
  <a href="https://www.facebook.com/profile.php?id=100004934805998">
   
-  <img src="Facebook_icon.jpg" alt="Facebook_icon" style="width:10%;">
+  <img src="Facebook_icon.jpg" alt="Facebook_icon" style="width:5%;">
  
  <a href="https://www.twitter.com/emoorehomes">
   
-  <img src="twitter image.jfif" alt="twitter image" style="width:10%;">
+  <img src="twitter image.jfif" alt="twitter image" style="width:5%;">
   
   </footer>
  
