@@ -19,8 +19,10 @@
       text-align:center;
       }
       
-      .footer{
-      img-align:center;
+      img {
+      display:block;
+      margin-left: auto;
+      margin-right: auto;
       }
     
     
@@ -58,9 +60,13 @@
  
  <footer>
  
- <a href="https://www.facebook.com/profile.php?id=100004934805998"><img src="Facebook_icon.jpg" alt="Facebook_icon" height="50" width="50">
+ <a href="https://www.facebook.com/profile.php?id=100004934805998">
+  
+  <img src="Facebook_icon.jpg" alt="Facebook_icon" style=width:50%;">
  
- <a href="https://www.twitter.com/emoorehomes"><img src="twitter image.jfif" alt="twitter image" height="50" width="50" >
+ <a href="https://www.twitter.com/emoorehomes">
+  
+  <img src="twitter image.jfif" alt="twitter image" style=width:50%;">
   
   </footer>
  
