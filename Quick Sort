@@ -1,0 +1,72 @@
+
+
+
+
+function pivot(arr, comparator, lo = 0, hi = arr.length - 1) {
+    if (typeof comparator !== 'function') {
+      comparator = (a, b) => {
+        if (a < b) return -1;
+        if (a > b) return 1;
+        return 0;
+      };
+    }
+  
+    let pivotIndex = lo;
+  
+    for (let i = lo + 1; i <= hi; i++) {
+      if (comparator(arr[lo], arr[i]) > 0) {
+        pivotIndex++;
+        [arr[i], arr[pivotIndex]] = [arr[pivotIndex], arr[i]];
+      }
+    }
+  
+    if (pivotIndex !== lo) [arr[pivotIndex], arr[lo]] = [arr[lo], arr[pivotIndex]];
+  
+    return pivotIndex;
+  }
+  
+  function quickSort(arr, comparator, lo = 0, hi = arr.length - 1) {
+    if (lo < hi) {
+      const pivotIndex = pivot(arr, comparator, lo, hi);
+  
+      quickSort(arr, comparator, lo, pivotIndex - 1);
+      quickSort(arr, comparator, pivotIndex + 1, hi);
+    }
+  
+    return arr;
+  }
+  
+  const nums = [4, 3, 5, 3, 43, 232, 4, 34, 232, 32, 4, 35, 34, 23, 2, 453, 546, 75, 67, 4342, 32];
+  console.log(quickSort(nums)); // [2, 3, 3, 4, 4, 4, 5, 23, 32, 32, 34, 34, 35, 43, 67, 75, 232, 232, 453, 546, 4342]
+  console.log(quickSort([])); // []
+  
+  console.log(quickSort(['LilBub', 'Garfield', 'Blue', 'Grumpy'], (a, b) => {
+    if (a[1] < b[1]) return -1;
+    if (a[1] > b[1]) return 1;
+    return 0;
+  })); // [ 'Garfield', 'LilBub', 'Blue', 'Grumpy' ]
+  
+  const moarKittyData = [{
+    name: 'LilBub',
+    age: 7
+  }, {
+    name: 'Garfield',
+    age: 40
+  }, {
+    name: 'Heathcliff',
+    age: 45
+  }, {
+    name: 'Blue',
+    age: 1
+  }, {
+    name: 'Grumpy',
+    age: 6
+  }];
+  
+  console.log(quickSort(moarKittyData, (a, b) => b.age - a.age)); // sorted by age in descending order
+  // [ { name: 'Heathcliff', age: 45 },
+  //   { name: 'Garfield', age: 40 },
+  //   { name: 'LilBub', age: 7 },
+  //   { name: 'Grumpy', age: 6 },
+  //   { name: 'Blue', age: 1 } ]
+  
